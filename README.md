@@ -11,8 +11,8 @@
 - 速度越来越快
 
 ## 演示地址
-[贪吃蛇](https://github.com/scqilin/three.js-Gluttonous-Snake.html)
+[贪吃蛇](https://scqilin.github.io/three.js-Gluttonous-Snake/01Gluttonous%20Snake.html)
 
 ## 游戏截图
 
-![贪吃蛇](https://github.com/scqilin/Gluttonous-Snake.jpg)
+![贪吃蛇](https://scqilin.github.io/three.js-Gluttonous-Snake/Gluttonous-Snake.jpg)
