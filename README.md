@@ -15,4 +15,4 @@
 
 ## 游戏截图
 
-![贪吃蛇](https://scqilin.github.io/three.js-Gluttonous-Snake/Gluttonous-Snake.jpg)
+![贪吃蛇](https://scqilin.github.io/three.js-Gluttonous-Snake/Gluttonous%20Snake.jpg)
