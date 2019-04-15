@@ -9,3 +9,9 @@
 - 页面显示分数
 - 速度越来越快
 
+## 演示地址
+[贪吃蛇](https://github.com/scqilin/three.js-Gluttonous-Snake.html)
+
+## 游戏截图
+
+![贪吃蛇](https://github.com/scqilin/Gluttonous-Snake.jpg)
