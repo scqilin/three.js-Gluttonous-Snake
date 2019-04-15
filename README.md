@@ -1,5 +1,6 @@
 # three.js-Gluttonous-Snake 贪吃蛇
 
+
 ## 基本功能
 - wsad（↑↓←→以及手势）控制贪吃蛇上下左右移动
 - 空格键暂停游戏
